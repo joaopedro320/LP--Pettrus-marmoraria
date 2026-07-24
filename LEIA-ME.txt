@@ -1,0 +1,24 @@
+PETTRUS MARMORARIA - PACOTE PRONTO PARA VERCEL
+
+Estrutura
+  index.html          a landing page
+  media/              os 3 videos de fabricacao (fab-1, fab-2, fab-3 .mp4)
+  og-pettrus.jpg      imagem de compartilhamento
+  sitemap.xml, robots.txt, llms.txt
+  vercel.json         headers de seguranca e cache
+
+Como subir
+  1. Arraste esta pasta inteira em vercel.com/new, ou rode "vercel --prod" dentro dela.
+  2. Aponte o dominio nas configuracoes do projeto.
+
+ANTES DE PUBLICAR
+  - Trocar https://www.pettrusmarmoraria.com.br/ pelo dominio real em:
+    index.html (canonical e Open Graph), sitemap.xml, robots.txt, llms.txt
+  - Em index.html, no topo do <script>: CFG.ENDPOINT = URL do Apps Script
+
+GTM
+  Container GTM-PC5L5L7V ja esta instalado no <head> e logo apos <body>.
+
+Pendencia
+  Antes e depois foi removido conforme pedido.
+  Os videos de fabricacao ja estao no ar (pasta media).
