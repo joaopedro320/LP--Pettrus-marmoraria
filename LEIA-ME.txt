@@ -22,3 +22,11 @@ GTM
 Pendencia
   Antes e depois foi removido conforme pedido.
   Os videos de fabricacao ja estao no ar (pasta media).
+
+Variante alto ticket (teste A/B)
+  projetos.html       mesma LP, so textos e CTAs ajustados para projetos de
+                      alto ticket (direcionamento de 07/10/2026). Publicada em
+                      /projetos. Esta com noindex para nao duplicar a principal.
+  Rastreio: o lead envia "variante: alto-ticket" ao Apps Script e
+  "lp_variant" no evento generate_lead do dataLayer.
+  A confirmar com o cliente: prazo "1 dia util" e a pergunta de peca avulsa no FAQ.
