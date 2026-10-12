@@ -24,8 +24,9 @@ Pendencia
   Os videos de fabricacao ja estao no ar (pasta media).
 
 Variante alto ticket (teste A/B)
-  projetos.html       mesma LP, so textos e CTAs ajustados para projetos de
-                      alto ticket (direcionamento de 07/10/2026). Publicada em
+  projetos.html       mesma identidade e ordem de secoes da LP principal, com
+                      textos e CTAs para projetos de alto ticket (direcionamento
+                      de 07/10/2026) e layout editorial proprio. Publicada em
                       /projetos. Esta com noindex para nao duplicar a principal.
   Rastreio: o lead envia "variante: alto-ticket" ao Apps Script e
   "lp_variant" no evento generate_lead do dataLayer.
