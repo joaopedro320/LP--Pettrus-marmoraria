@@ -31,3 +31,11 @@ Variante alto ticket (teste A/B)
   Rastreio: o lead envia "variante: alto-ticket" ao Apps Script e
   "lp_variant" no evento generate_lead do dataLayer.
   A confirmar com o cliente: prazo "1 dia util" e a pergunta de peca avulsa no FAQ.
+
+Variante alto ticket v2 (teste A/B)
+  projetos-v2.html    copia de projetos.html com os ajustes do cliente na secao
+                      de materiais: card Quartzito corrigido (composto por
+                      quartzo, resistente, nao reage a acidos) e legenda do card
+                      Super Nano trocada para "Bancada em Super Nano".
+                      Publicada em /projetos-v2, com noindex.
+  Rastreio: envia "variante: alto-ticket-v2" e lp_variant correspondente.
